@@ -1,4 +1,4 @@
-🛒 SwingStoreSystem
+SwingStoreSystem
 A Multi-Frame Store Manager built with Java Swing
 
 This project is a simple store management system designed to handle shopping, inventory tracking, and sales logging. It was built as a student activity to demonstrate how to pass data between multiple windows using only fixed-size arrays.
